@@ -2,21 +2,21 @@
 
 
 
-# FoodDash
+# MealPlan
 
 This is a Spring-based web application, an online food order website.
 
 It's deployed on my AWS EC2 server and can be accessed through the [link](http://54.86.213.235/).
 
-The [frontend](foodDash-web-frontend) is based on React and [ANT design](https://ant.design/docs/react/introduce).
+The [frontend](MealPlan-web-frontend) is based on React and [ANT design](https://ant.design/docs/react/introduce).
 
-The [backend](foodDash-backend) is implemented with Java Spring framework and Hibernate, with AWS MySQL database and Hibernate Session Factory security.
+The [backend](MealPlan-backend) is implemented with Java Spring framework and Hibernate, with AWS MySQL database and Hibernate Session Factory security.
 
 # Frontend Features
 
 ## Development Setup
 
-Clone the [frontend repo](foodDash-web-frontend), install JavaScript runtime environment [nodeJS](https://nodejs.org/en/)
+Clone the [frontend repo](MealPlan-web-frontend), install JavaScript runtime environment [nodeJS](https://nodejs.org/en/)
 
 ```java
 //npm install required libraries from package.json if needed
@@ -55,7 +55,7 @@ npm start
 
 
 
-# [Backend](foodDash-backend)
+# [Backend](MealPlan-backend)
 
 ## Spring MVC Framework  + Hibernate ORM 
 

@@ -2,7 +2,7 @@
 
 
 
-# SwipeNews
+# LikeNews
 
 This is a tinder style news android application with MVVM architecture in [Jetpack](https://developer.android.com/jetpack).
 
@@ -16,7 +16,7 @@ Local Database is using Room in the Jetpack.
 
 ## Development Setup
 
-Clone the [SwipeNews](SwipeNews), run it with android studio
+Clone the [LikeNews](LikeNews), run it with android studio
 
 Set environment: (1)At least *Android 12(S) and Android API 32*  (2) select an android *Pixel 5* 
 

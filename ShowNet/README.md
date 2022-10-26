@@ -2,21 +2,21 @@
 
 
 
-# MeetYou	
+# ShowNet	
 
 This is a Go web service based social network web application with React JS.
 
 It's deployed on my Google App Engine server and can be accessed through the [link](http://35.192.53.45:9200).
 
-The [frontend](MeetYou-web-frontend) is based on React and [ANT design](https://ant.design/docs/react/introduce).
+The [frontend](ShowNet-web-frontend) is based on React and [ANT design](https://ant.design/docs/react/introduce).
 
-The [backend](MeetYou-backend) is implemented with Go web service, and deployed on google cloud compute engine with Elasticsearch database, Token based authentication with JSON Web Token.
+The [backend](ShowNet-backend) is implemented with Go web service, and deployed on google cloud compute engine with Elasticsearch database, Token based authentication with JSON Web Token.
 
 # Frontend Features
 
 ## Development Setup
 
-Clone the [frontend repo](MeetYou-web-frontend), install JavaScript runtime environment [nodeJS](https://nodejs.org/en/)
+Clone the [frontend repo](ShowNet-web-frontend), install JavaScript runtime environment [nodeJS](https://nodejs.org/en/)
 
 ```java
 //npm install required libraries from package.json if needed
@@ -63,7 +63,7 @@ npm start
 
 
 
-# [Backend](MeetYou-backend)
+# [Backend](ShowNet-backend)
 
 ## Go Web Service 
 
